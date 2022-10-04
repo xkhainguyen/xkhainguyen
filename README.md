@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khai Nguyen
+- 👋 Hi, I’m Khai Nguyen, a graduate student at CMU
 - 👀 I’m interested in control, robotics, and systems
 - 🌱 I’m currently learning Modern Robotics, Algorithms, and Machine Learning
 - 💞️ I’m looking to collaborate on everything
