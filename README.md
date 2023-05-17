@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khai Nguyen, a graduate student at CMU
+- 👋 Hi, I’m Khai, a graduate student at CMU
 - 👀 I’m interested in optimization-first planning and control for robotic systems
 - 🌱 I’m currently working on TinyMPC for embedded applications
 - 💞️ I’m looking at sample-efficient learning-based control
