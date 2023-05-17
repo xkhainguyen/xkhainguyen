@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khai Nguyen, a graduate student at CMU
 - 👀 I’m interested in optimization-first planning and control for robotic systems
-- 🌱 I’m currently learning Advanced Control, Advanced Dynamics and Optimization
-- 💞️ I’m looking to collaborate on everything
+- 🌱 I’m currently working on TinyMPC for embedded applications
+- 💞️ I’m looking at sample-efficient learning-based control
 - 📫 Reach me via my [LinkedIn](https://www.linkedin.com/in/khainx/)
 
 <!---
