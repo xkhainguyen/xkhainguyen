@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Khai, a graduate student at CMU
+- 👋 Hi, I’m Khai. I received my MS from CMU
 - 👀 I’m interested in optimization-first planning and control for robotic systems
-- 🌱 I’m currently working on TinyMPC for resource-constrained platforms.
-- 💞️ I’m looking into efficient robot learning
+- 🌱 I’m currently working on projects related to model-predictive control, implicit models and robot learning.
 - 📫 Reach me via my [LinkedIn](https://www.linkedin.com/in/khainx/)
 
 <!---
