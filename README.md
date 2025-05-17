@@ -15,5 +15,5 @@ Previously:
 - MS at Carnegie Mellon University with Zac Manchester and the [Robotic Exploration Lab](https://roboticexplorationlab.org/)
 - student fellow at ETH Zurich with Jesus Tordesillas and Marco Hutter and the [Robotic Systems Lab](https://rsl.ethz.ch/)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xkhainguyen&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dark"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xkhainguyen&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=default"/>
 
