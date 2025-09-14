@@ -5,7 +5,7 @@ Recently, I’ve focused on:
 - sampling-based optimal control for better exploration-exploitation tradeoffs
 - implicit deep learning for robustness, generalization, and invertibility
 
-[**Website**](https://xkhainguyen.github.io/) | [**CV**](https://xkhainguyen.github.io/CV_Khai.pdf) | [**Google Scholar**](https://scholar.google.com/citations?user=ex03GKkAAAAJ&hl=en)
+[**Website**](https://xkhainguyen.github.io/) | [**CV**](https://drive.google.com/file/d/1h6jF4Dgg-vmGOYAiaJvk4r16yz5SKjoz/view?usp=sharing) | [**Google Scholar**](https://scholar.google.com/citations?user=ex03GKkAAAAJ&hl=en)
 
 Previously:
 - MS at Carnegie Mellon University with Zac Manchester and the [Robotic Exploration Lab](https://roboticexplorationlab.org/)
