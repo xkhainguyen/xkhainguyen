@@ -1,9 +1,6 @@
 ### Hi, I'm Khai!
 
-Recently, I’ve focused on:
-- agile/robust humanoid control via reinforcement and imitation learning
-- sampling-based optimal control for better exploration-exploitation tradeoffs
-- implicit deep learning for robustness, generalization, and invertibility
+Recently, I’ve been working on AI and robotics at MIT EECS.
 
 [**Website**](https://xkhainguyen.github.io/) | [**CV**](https://drive.google.com/file/d/1h6jF4Dgg-vmGOYAiaJvk4r16yz5SKjoz/view?usp=sharing) | [**Google Scholar**](https://scholar.google.com/citations?user=ex03GKkAAAAJ&hl=en)
 
