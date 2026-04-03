@@ -1,6 +1,6 @@
 ### Hi, I'm Khai!
 
-Recently, I’ve been working on AI and robotics at MIT EECS.
+I’ve been working on AI and robotics at MIT EECS.
 
 [**Website**](https://xkhainguyen.github.io/) | [**CV**](https://drive.google.com/file/d/1h6jF4Dgg-vmGOYAiaJvk4r16yz5SKjoz/view?usp=sharing) | [**Google Scholar**](https://scholar.google.com/citations?user=ex03GKkAAAAJ&hl=en)
 
